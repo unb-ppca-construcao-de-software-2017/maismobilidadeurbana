@@ -1,0 +1,2 @@
+# maismobilidadeurbana
+A proposta do sistema é permitir postar denúncias de problemas de mobilidade urbana. A ideia é dar visibilidade ao problema que hoje é sentido principalmente por pessoas que são portadoras de necessidades especiais, como: cadeirantes, deficientes visuais, entre outros. Essa proposta visa tanto pressionar as entidades públicas a agirem mais sobre essas questões, bem como permitir que em um futuro não muito distante seja possível ter alguma forma de patrocínio ou crowdfunding para levantar recursos para solucionar os problemas de mobilidade urbana.
