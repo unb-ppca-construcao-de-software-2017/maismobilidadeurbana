@@ -25,11 +25,14 @@ A busca por resolução do problema pode se dar tanto através da forma tradicio
 A estratégia principal empregada para promoção e engajamento foi o compartilhamento do projeto nas redes sociais: facebook, twitter e grupos de whatsapp.
 
 # Link para Google Analytics:
-<link: * * *>
+https://analytics.google.com/analytics/web/#embed/report-home/a102169992w149627374p154547058/
+
+# Link do Trello para controle de atividades do projeto
+https://trello.com/b/9m67A0dx/projeto-2-app-c%C3%ADvico-grupo-2
 
 # Membros do grupo que participaram do projeto:
-- Carla Gomes
-- Diego 
-- Fábio Leal
-- Haroldo 
+- Carla Gama Lustosa
+- Diego Emanuel F. Da Rocha
+- Fábio Barros Leal
+- Haroldo Mendes
 - Tarcizio Vieira Neto
