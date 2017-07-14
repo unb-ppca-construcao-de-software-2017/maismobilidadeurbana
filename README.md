@@ -2,10 +2,10 @@
 A proposta do sistema é permitir postar denúncias de problemas de mobilidade urbana. A ideia é dar visibilidade ao problema que hoje é sentido principalmente por pessoas que são portadoras de necessidades especiais, como: cadeirantes, deficientes visuais, entre outros. Essa proposta visa tanto pressionar as entidades públicas a agirem mais sobre essas questões, bem como permitir que em um futuro não muito distante seja possível ter alguma forma de patrocínio ou crowdfunding para levantar recursos para solucionar os problemas de mobilidade urbana.
 
 ## segue exemplo de tela com denúncia de problema de mobilidade urbana
-![print de tela com denúncia de problema de mobilidade urbana](print-tela/print-reclamacao.png =250x250)
+<img src="print-tela/print-reclamacao.png" width="50%" height="50%" />
 
 ## segue exemplo de tela para envio das denúncias de problemas de mobilidade urbana
-![print de tela para envio das denúncias de problemas de mobilidade urbana](print-tela/print-tela-denuncia.png)
+<img src="print-tela/print-tela/print-tela-denuncia.png" width="80%" height="80%" />
 
 # Público alvo e do problema a ser resolvido
 O *público alvo* consiste em pessoas consideradas como Portadora de Necessidades Especiais (PNE) que abrangem:
@@ -53,7 +53,7 @@ OBS.:Todo o conteúdo a seguir está disponível na pasta [/divulgacao](divulgac
 
 ## Link de divulgação no Youtube
 
-[![Vídeo Divulgação Mais Mobilidade Urbana](print-tela/print-video-divulgacao.png =250x250)](https://www.youtube.com/watch?v=rP1YCUh7Lx8)
+[![Vídeo Divulgação Mais Mobilidade Urbana](print-tela/print-video-divulgacao.png)](https://www.youtube.com/watch?v=rP1YCUh7Lx8)
 
 - O vídeo está disponível em [/divulgacao/video-divulgacao.mp4](divulgacao/video-divulgacao.mp4)
 
