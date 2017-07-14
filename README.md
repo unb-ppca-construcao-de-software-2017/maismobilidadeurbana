@@ -5,7 +5,7 @@ A proposta do sistema é permitir postar denúncias de problemas de mobilidade u
 <img src="print-tela/print-reclamacao.png" width="50%" height="50%" />
 
 ## segue exemplo de tela para envio das denúncias de problemas de mobilidade urbana
-<img src="print-tela/print-tela/print-tela-denuncia.png" width="80%" height="80%" />
+<img src="print-tela/print-tela-denuncia.png" width="80%" height="80%" />
 
 # Público alvo e do problema a ser resolvido
 O *público alvo* consiste em pessoas consideradas como Portadora de Necessidades Especiais (PNE) que abrangem:
