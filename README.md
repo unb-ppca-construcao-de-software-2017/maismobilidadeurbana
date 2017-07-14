@@ -1,6 +1,12 @@
 # maismobilidadeurbana
 A proposta do sistema é permitir postar denúncias de problemas de mobilidade urbana. A ideia é dar visibilidade ao problema que hoje é sentido principalmente por pessoas que são portadoras de necessidades especiais, como: cadeirantes, deficientes visuais, entre outros. Essa proposta visa tanto pressionar as entidades públicas a agirem mais sobre essas questões, bem como permitir que em um futuro não muito distante seja possível ter alguma forma de patrocínio ou crowdfunding para levantar recursos para solucionar os problemas de mobilidade urbana.
 
+## segue exemplo de tela com denúncia de problema de mobilidade urbana
+![alt text](print-tela/print-tela-denuncia.png)
+
+## segue exemplo de tela para envio das denúncias de problemas de mobilidade urbana
+![alt text](print-tela/print-tela-reclamacao.png)
+
 # Público alvo e do problema a ser resolvido
 O *público alvo* consiste em pessoas consideradas como Portadora de Necessidades Especiais (PNE) que abrangem:
 - dificuldades de locomoção em diversos graus de restrição, como: cadeira de rodas, deficiências que reduzem a capacidade locomotora (uso de muletas/bengalas) comum em idosos.
@@ -22,7 +28,35 @@ Após a publicação e organização das reclamações por região (atividade qu
 A busca por resolução do problema pode se dar tanto através da forma tradicional mais conhecida que é através do envio formal das queixas para as entidades públicas responsáveis, como também através do envolvimento da comunidade para o levantamento de recursos para atingir a solução dos problemas através de campanhas de crowdfunding.
 
 # Descrição resumida da estratégia utilizada para promoção de engajamento:
-A estratégia principal empregada para promoção e engajamento foi o compartilhamento do projeto nas redes sociais: facebook, twitter e grupos de whatsapp.
+A estratégia principal empregada para promoção e engajamento foi o compartilhamento do projeto nas redes sociais: facebook, twitter e grupos de whatsapp, bem como integração das postagens aprovadas no site são automaticamente postadas na página do ICEP Brasil no Facebook e Twitter
+- https://www.facebook.com/IcepBrasil/
+- https://twitter.com/ICEPBrasil
+
+- *Requisição na página de mobilidade urbana do Wikipedia:* https://pt.wikipedia.org/wiki/Mobilidade_urbana
+> pedido para acrescentar o site https://pt.wikipedia.org/wiki/Mobilidade_urbana
+
+- *Mensagens de divulgação:*
+--------------------------------------------
+Pessoal, segue um site que se propõe centralizar denúncias mobilidade urbana que estou apoiando. A ideia é dar visibilidade aos problemas que as pessoas encontram ao andarem pela cidade como cadeirantes, deficientes visuais, idosos e pais com carrinho de bebê.
+
+http://maismobilidadeurbana.com.br
+--------------------------------------------
+Pessoal, já está no ar um site cuja proposta é permitir postar denúncias de problemas de mobilidade urbana. É uma espécie de "reclame aqui da mobilidade urbana". A ideia é dar visibilidade ao problema que hoje é sentido principalmente por pessoas que são portadoras de necessidades especiais, como: cadeirantes, deficientes visuais, entre outros.
+Essa proposta visa tanto pressionar as entidades públicas a agirem mais sobre essas questões, bem como permitir que em um futuro não muito distante possamos ter alguma forma de patrocínio ou crowdfunding para levantar recursos para solucionar os problemas de mobilidade urbana. 
+Então... vamos! Comece a fazer sua parte! Denuncie compartilhe e se envolva!
+Para saber mais acesse: http://maismobilidadeurbana.com.br
+--------------------------------------------
+
+OBS.:Todo o conteúdo a seguir está disponível na pasta [/divulgacao](divulgacao)
+
+## Imagem de divulgação:
+![alt text](/divulgacao/divulgacao/mmu-campaign2.png)
+
+## Link de divulgação no Youtube
+
+[Vídeo Divulgação Mais Mobilidade Urbana](https://www.youtube.com/watch?v=rP1YCUh7Lx8)
+
+- O viídeo está disponível em [/divulgacao/video-divulgacao.mp4](divulgacao/video-divulgacao.mp4)
 
 # Link para Google Analytics:
 https://analytics.google.com/analytics/web/#embed/report-home/a102169992w149627374p154547058/
