@@ -2,10 +2,10 @@
 A proposta do sistema é permitir postar denúncias de problemas de mobilidade urbana. A ideia é dar visibilidade ao problema que hoje é sentido principalmente por pessoas que são portadoras de necessidades especiais, como: cadeirantes, deficientes visuais, entre outros. Essa proposta visa tanto pressionar as entidades públicas a agirem mais sobre essas questões, bem como permitir que em um futuro não muito distante seja possível ter alguma forma de patrocínio ou crowdfunding para levantar recursos para solucionar os problemas de mobilidade urbana.
 
 ## segue exemplo de tela com denúncia de problema de mobilidade urbana
-![alt text](print-tela/print-tela-denuncia.png)
+![alt text](print-tela/print-reclamacao.png)
 
 ## segue exemplo de tela para envio das denúncias de problemas de mobilidade urbana
-![alt text](print-tela/print-tela-reclamacao.png)
+![alt text](print-tela/print-tela-denuncia.png)
 
 # Público alvo e do problema a ser resolvido
 O *público alvo* consiste em pessoas consideradas como Portadora de Necessidades Especiais (PNE) que abrangem:
@@ -36,16 +36,15 @@ A estratégia principal empregada para promoção e engajamento foi o compartilh
 > pedido para acrescentar o site https://pt.wikipedia.org/wiki/Mobilidade_urbana
 
 - *Mensagens de divulgação:*
---------------------------------------------
-Pessoal, segue um site que se propõe centralizar denúncias mobilidade urbana que estou apoiando. A ideia é dar visibilidade aos problemas que as pessoas encontram ao andarem pela cidade como cadeirantes, deficientes visuais, idosos e pais com carrinho de bebê.
+## Mensagem 1
+> Pessoal, segue um site que se propõe centralizar denúncias mobilidade urbana que estou apoiando. A ideia é dar visibilidade aos problemas que as pessoas encontram ao andarem pela cidade como cadeirantes, deficientes visuais, idosos e pais com carrinho de bebê.
+> http://maismobilidadeurbana.com.br
 
-http://maismobilidadeurbana.com.br
---------------------------------------------
-Pessoal, já está no ar um site cuja proposta é permitir postar denúncias de problemas de mobilidade urbana. É uma espécie de "reclame aqui da mobilidade urbana". A ideia é dar visibilidade ao problema que hoje é sentido principalmente por pessoas que são portadoras de necessidades especiais, como: cadeirantes, deficientes visuais, entre outros.
+## Mensagem 2
+> Pessoal, já está no ar um site cuja proposta é permitir postar denúncias de problemas de mobilidade urbana. É uma espécie de "reclame aqui da mobilidade urbana". A ideia é dar visibilidade ao problema que hoje é sentido principalmente por pessoas que são portadoras de necessidades especiais, como: cadeirantes, deficientes visuais, entre outros.
 Essa proposta visa tanto pressionar as entidades públicas a agirem mais sobre essas questões, bem como permitir que em um futuro não muito distante possamos ter alguma forma de patrocínio ou crowdfunding para levantar recursos para solucionar os problemas de mobilidade urbana. 
-Então... vamos! Comece a fazer sua parte! Denuncie compartilhe e se envolva!
-Para saber mais acesse: http://maismobilidadeurbana.com.br
---------------------------------------------
+> Então... vamos! Comece a fazer sua parte! Denuncie compartilhe e se envolva!
+> Para saber mais acesse: http://maismobilidadeurbana.com.br
 
 OBS.:Todo o conteúdo a seguir está disponível na pasta [/divulgacao](divulgacao)
 
