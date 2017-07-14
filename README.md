@@ -2,7 +2,7 @@
 A proposta do sistema é permitir postar denúncias de problemas de mobilidade urbana. A ideia é dar visibilidade ao problema que hoje é sentido principalmente por pessoas que são portadoras de necessidades especiais, como: cadeirantes, deficientes visuais, entre outros. Essa proposta visa tanto pressionar as entidades públicas a agirem mais sobre essas questões, bem como permitir que em um futuro não muito distante seja possível ter alguma forma de patrocínio ou crowdfunding para levantar recursos para solucionar os problemas de mobilidade urbana.
 
 ## segue exemplo de tela com denúncia de problema de mobilidade urbana
-![print de tela com denúncia de problema de mobilidade urbana](print-tela/print-reclamacao.png)
+![print de tela com denúncia de problema de mobilidade urbana](print-tela/print-reclamacao.png){:height="50%" width="50%"}
 
 ## segue exemplo de tela para envio das denúncias de problemas de mobilidade urbana
 ![print de tela para envio das denúncias de problemas de mobilidade urbana](print-tela/print-tela-denuncia.png)
@@ -49,13 +49,13 @@ Essa proposta visa tanto pressionar as entidades públicas a agirem mais sobre e
 OBS.:Todo o conteúdo a seguir está disponível na pasta [/divulgacao](divulgacao)
 
 ## Imagem de divulgação:
-![imagem de divulgacao](/divulgacao/mmu-campaign2.png)
+![imagem de divulgacao](/divulgacao/mmu-campaign2.png){:height="35%" width="35%"}
 
 ## Link de divulgação no Youtube
 
-![Vídeo Divulgação Mais Mobilidade Urbana](https://www.youtube.com/watch?v=rP1YCUh7Lx8)
+[![Vídeo Divulgação Mais Mobilidade Urbana](divulgacao/print-video-divulgacao.png)](https://www.youtube.com/watch?v=rP1YCUh7Lx8)
 
-- O viídeo está disponível em [/divulgacao/video-divulgacao.mp4](divulgacao/video-divulgacao.mp4)
+- O vídeo está disponível em [/divulgacao/video-divulgacao.mp4](divulgacao/video-divulgacao.mp4)
 
 # Link para Google Analytics:
 https://analytics.google.com/analytics/web/#embed/report-home/a102169992w149627374p154547058/
